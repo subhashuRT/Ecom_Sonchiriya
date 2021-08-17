@@ -37,15 +37,16 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
     
     
 ```    
-> > All-categories
-
+>  Detail Description
+> > 1. Launching a project 
 <!-- \`Inline code block inside this ` -->
 
-### Codeblocks
+Run terminal and go to your main folder 
+create virtual environment and then install latest python, django
 
+then create a main project using django
 ```python
-def add(n,m):
-    return n+m
+django-admin startproject Sonchiriya
 ```
 
 ```javascript
