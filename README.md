@@ -1,4 +1,4 @@
-# Sonchiriya                 <img src="https://www.freepnglogos.com/uploads/parrot/pin-ulla-therstr-glar-parrot-parrot-21.png" alt="drawing" width="150"/>
+# <span style="color: green"> Sonchiriya </span>                <img src="https://www.freepnglogos.com/uploads/parrot/pin-ulla-therstr-glar-parrot-parrot-21.png" alt="drawing" width="150"/>
 
 <!-- ![](https://www.freepnglogos.com/uploads/parrot/pin-ulla-therstr-glar-parrot-parrot-21.png) -->
 
