@@ -11,6 +11,7 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
 ---
 
 ## Structure of Project
+```
    Ecom_Sonchiriya
     ├── Code
         ├── Vishal                     # Name of the person for which this project is made
@@ -22,7 +23,7 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
                ├── manage.py           # main file for running server   
                └── db.sqlite3          # database for the project
                  
-
+```
 > [Sonchiriya](sonchiriya.co.in)
 
 > > Main project Sonchiriya
