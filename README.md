@@ -2,9 +2,9 @@
 
 <!-- ![](https://www.freepnglogos.com/uploads/parrot/pin-ulla-therstr-glar-parrot-parrot-21.png) -->
 
-_This is an actual running project_
+<!-- _This is an actual running project_ -->
 
-_This project_ is made with **HTML5, Bootstrap, Javascript, and Django** ~~Not used React~~
+This project uses **HTML5, Bootstrap, Javascript, and Django** 
 
 ---
 
@@ -18,7 +18,7 @@ _This project_ is made with **HTML5, Bootstrap, Javascript, and Django** ~~Not u
 
 > > All-categories
 
-\`Inline code block inside this `
+<!-- \`Inline code block inside this ` -->
 
 ### Codeblocks
 
