@@ -26,12 +26,12 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
 ```
 > [Sonchiriya](sonchiriya.co.in)
 
-> > Main project Sonchiriya
-```<span style="color: yellow"> Steps </span>
+> > Steps
+```
     1. Lauch djangoproject inside a virtual environment
     2. Create superuser
     3. Create an app name "Shop"
-    4.
+    4. Edit following files (in order) Model --> View --> Template 
 ```    
 > > All-categories
 
