@@ -24,9 +24,8 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
                └── db.sqlite3          # database for the project
                  
 ```
-> [Sonchiriya](sonchiriya.co.in)
-
-> > Steps
+> [Sonchiriya](sonchiriya.co.in) 
+### Steps
 ```
     1. Lauch djangoproject inside a virtual environment
     2. Create superuser
