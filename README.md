@@ -30,7 +30,7 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
     1. Lauch djangoproject inside a virtual environment
     2. Create superuser
     3. Create an app name `Shop`
-    4. Edit following files (in order) Model --> View --> Template 
+    4. Edit following files (in order) Model --> View --> Template and silmuntaneously link url inside urls.py 
     5. Create Various Templates for Home, Header, Footer, Navbar, base template, Sign in, Checkout and Register.
     6. Create Categories app and link them with product slug and category slug 
     
