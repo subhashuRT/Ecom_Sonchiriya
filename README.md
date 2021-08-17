@@ -24,13 +24,16 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
                └── db.sqlite3          # database for the project
                  
 ```
-> [Sonchiriya](sonchiriya.co.in) 
+> Link for the website: [Sonchiriya](sonchiriya.co.in) 
 ### Steps
 ```
     1. Lauch djangoproject inside a virtual environment
     2. Create superuser
-    3. Create an app name "Shop"
+    3. Create an app name `Shop`
     4. Edit following files (in order) Model --> View --> Template 
+    5. Create Various Templates for Home, Header, Footer, Navbar, base template, Sign in, Checkout and Register.
+    6. Create Categories app and link them with product slug and category slug 
+    
 ```    
 > > All-categories
 
