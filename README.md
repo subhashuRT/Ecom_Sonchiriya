@@ -33,6 +33,8 @@ This project uses **HTML5, Bootstrap, Javascript, and Django**
     4. Edit following files (in order) Model --> View --> Template and silmuntaneously link url inside urls.py 
     5. Create Various Templates for Home, Header, Footer, Navbar, base template, Sign in, Checkout and Register.
     6. Create Categories app and link them with product slug and category slug 
+    7. Make sure we change our settings.py files inside main Sonchiriya project folder.
+    
     
 ```    
 > > All-categories
